@@ -2,7 +2,7 @@
 
 https://opnforum.com/openclaw-linux-installation-wizard/
 
-The opnForum.com OpenClaw Linux installation wizard deploys OpenClaw onto your Linux server in minutes with three available configurations: Local AI, Hybrid Cloud, and Cloud. The wizard installs all prerequisites if needed (Ollama and Docker), downloads local LLM models, and generates the required SSL certificate. It currently works on Debian/Ubuntu, Fedora/RHEL, and Arch-based distros.
+The opnForum OpenClaw Linux installation wizard deploys OpenClaw onto your Linux server in minutes with three available configurations: Local AI, Hybrid Cloud, and Cloud. The wizard installs all prerequisites if needed (Ollama and Docker), downloads local LLM models, and generates the required SSL certificate. It currently works on Debian/Ubuntu, Fedora/RHEL, and Arch-based distros.
 
 The Local AI configuration lets you run OpenClaw completely free of charge depending on your hardware. The Hybrid Cloud setup lets you save tokens on simple prompts while larger, more complex tasks are handled by your Cloud AI provider of choice.
 
