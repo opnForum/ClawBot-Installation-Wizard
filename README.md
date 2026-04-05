@@ -64,3 +64,10 @@ Installation Locations
     SSL certificates: ~/openclaw/certs/
     Downloaded AI models: ~/.ollama/
 
+To Run:
+
+chmod +x openclaw-wizard.sh && ./openclaw-wizard.sh
+
+If you want to understand what’s happening under the hood, or prefer to set things up manually, you can find a full walk through by Lynx at the link below…
+
+opnforum.com/use-openclaw-for-free
