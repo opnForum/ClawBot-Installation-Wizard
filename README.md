@@ -13,7 +13,9 @@ API keys are stored in a separate locked-down .env file rather than the docker-c
 The wizard also detects existing installations and offers a one-click update that pulls the latest OpenClaw container images while keeping your config intact. If a local model requires a newer version of Ollama, the wizard will offer to update Ollama and retry automatically.
 
 Other features include a skills manager for installing ClawHub skills, a troubleshooter for when something goes wrong, a model manager to switch out models fast without manual editing, a live device pairing menu, a backup and restore tool, and a full uninstaller that can also remove Docker and Ollama if desired.
+
 Full Details:
+
 Install / Update
 
     Three modes: cloud only, local AI, or hybrid (local + cloud fallback)
