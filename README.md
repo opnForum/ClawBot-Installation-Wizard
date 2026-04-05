@@ -73,3 +73,5 @@ chmod +x openclaw-wizard.sh && ./openclaw-wizard.sh
 If you want to understand what’s happening under the hood, or prefer to set things up manually, you can find a full walk through by Lynx at the link below…
 
 opnforum.com/use-openclaw-for-free
+
+https://www.virustotal.com/gui/file/c8d5aad3e7084db3a3462b300ca46769032245523515375054cd54e7ffc7ce59
